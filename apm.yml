@@ -1,0 +1,10 @@
+name: core-dependencies
+version: 0.0.1
+description: APM project with core dependencies
+author: mapspiral
+
+instructions:
+  copilot:
+    - shell.instructions.md
+  opencode:
+    - shell.instructions.md
